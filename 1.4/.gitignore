@@ -1,0 +1,6 @@
+config/*.yml
+config/webistrano_config.rb
+tmp/*
+log/*
+*~
+.DS_Store
